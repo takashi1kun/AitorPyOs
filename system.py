@@ -3,9 +3,7 @@ import time
 from os import system, name 
 from subprocess import call 
 from msvcrt import getch
-#classes
 
-# define our clear function 
 def clear(): 
   
     # for windows 
